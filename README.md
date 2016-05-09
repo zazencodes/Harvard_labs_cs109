@@ -1,5 +1,5 @@
 # Harvard CS109 labs
-I'm independently working through the labs for Harvard's data-science course using Python 3 (they were originally designed for Python 2).
+I'm independently working through [the labs](https://github.com/cs109) for Harvard's data-science course using Python 3 (they were originally designed for Python 2).
 
 Topics include: 
 - Data munging, cleaning, and sampling  
